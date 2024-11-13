@@ -69,7 +69,3 @@ The visualizations included in this repository help provide insights into the da
     
 -   **Training Metrics**: The training and validation plots before and after unfreezing demonstrate the impact of fine-tuning the model.
     
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
