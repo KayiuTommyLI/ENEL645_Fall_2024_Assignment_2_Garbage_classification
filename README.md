@@ -1,0 +1,2 @@
+# ENEL645_Fall_2024_Assignment_2_Garbage_classification
+Assignment 2 Garbage classification for ENEL645 Fall 2024
