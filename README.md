@@ -45,7 +45,8 @@ This repository contains analysis visualizations and scripts related to a machin
 
 ## Usage
 
--   To build and train the model, use `BuildModel.py`. It is recommended to adjust hyperparameters as needed based on the dataset.
+-   To build and train the model, use `BuildModel.py`. It is recommended to adjust hyperparameters as needed based on the dataset. Alternatively user can download the model (best_model.pth) for running the test.
+-   https://drive.google.com/file/d/1Wxsapd4lZUx4pPbPXbO93zLvuXj3BsAm/view
     
 -   For running the model on an HPC cluster, use the provided `run.slurm` script.
     
